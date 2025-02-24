@@ -18,7 +18,7 @@ Someone who loved using PS Mix & Fix from 2017-2024, and wants to continue using
 Like many others, I used to edit photos on PS Mix & Fix until they were intentionally destroyed by Adobe.
 
 ## What motivated you?
-* On Feb. 15th 2025, I was editing a photo on my PC using Paint.NET and I thought to myself:  
+* On Feb. 15th 2025, I was editing a photo using Paint.NET and I thought to myself:  
 > "This would be SO MUCH EASIER if I could use Photoshop Fix again."
 * Zero tolerance for greedy companies screwing people over for money.
 
