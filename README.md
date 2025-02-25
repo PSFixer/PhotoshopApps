@@ -10,8 +10,8 @@
 - [x] Disabled ALL analytic spyware.  
 - [x] Removed network permission.  
 - [x] Fixed many crashes that made the apps unusable.  
-- [x] Added dark mode! (App follows system theme) 
-- [x] Removed all broken/useless buttons. 
+- [x] Added dark mode! (App follows system theme) (Currently only on PS Mix)
+- [x] Removed all broken buttons. 
 
 ## Who are you? 
 Someone who loved using PS Mix & Fix from 2017-2024, and wants to continue using them in 2025 onward.  
