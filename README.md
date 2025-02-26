@@ -2,10 +2,7 @@
 
 ## The Adobe Photoshop apps restored! 😏
 > After 8 months of being unusable. (June 4th 2024 to February 15th 2025)  
-> For Android 9+ only. 
-
-# HOW TO INSTALL:  
-[DOWNLOAD](https://github.com/PSFixer/PhotoshopApps/releases) the APK's on your Android phone and install them. That's it.
+> For Android 9+ only.  
 
 ## Changelog:
 ### 2025.0 (Feb. 15th 2025 - Feb. 25th 2025)
@@ -30,6 +27,16 @@ I understand your concern, but I promise you: these apps are *even safer* than t
 I disabled all analytic code that tracked your actions when using these apps.  
 Furthermore, I even disabled network permissions for both apps so they can't communicate to any servers.
 
+# HOW TO INSTALL:  
+[DOWNLOAD](https://github.com/PSFixer/PhotoshopApps/releases) the APK's on your Android phone and install them. That's it.
+
+# Donate:
+This is a lot of work.  
+Thank you for anything given. ❤  
+
+**BTC: bc1q9mztthrewp5rkqn0c6wkjmcusxak5g60cujfws**  
+![btc QR Code](https://github.com/user-attachments/assets/ca4ac4cc-6d2d-4798-9746-2c05793bcb6a)  
+
 ## Known Bugs:
 * (Mix & Fix) Renaming a project crashes the app.  
 * (Mix & Fix) Deleting a project doesn't work, even though it plays an animation like it does.  
@@ -44,14 +51,6 @@ Furthermore, I even disabled network permissions for both apps so they can't com
 * <ins>June 4th 2024:</ins> PS Mix & Fix apps were officially "sunsetted." No longer operational. *Intentionally broken.*
 * <ins>February 15th 2025:</ins> I reverse engineered PS Mix & Fix to restore access to both apps.
 * <ins>February 24th 2025:</ins> I created this repo, and worked on PS Mix 2025 for a week. Fixed crashes in both apps.
-  
-# Donate:
-This is a lot of work.  
-Thank you for anything given. ❤  
-
-**BTC: bc1q9mztthrewp5rkqn0c6wkjmcusxak5g60cujfws**  
-![btc QR Code](https://github.com/user-attachments/assets/ca4ac4cc-6d2d-4798-9746-2c05793bcb6a)  
-
 
 ## I'll leave you with this:
 > "Sometimes, things that go horrendously wrong can end up being tremendously better." - PS Fixer, February 24th 2025.
