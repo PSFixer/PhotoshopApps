@@ -1,6 +1,6 @@
-# ✨Photoshop Mix & Fix 2025✨😏
- 
-## The Adobe Photoshop apps restored!
+<h1 align="center">✨Photoshop Mix & Fix 2025✨</h1>
+
+## The Adobe Photoshop apps restored! 😏
 > After 8 months of being unusable. (June 4th 2024 to February 15th 2025)  
 > For Android 9+ only. 
 
@@ -8,7 +8,7 @@
 [DOWNLOAD](https://github.com/PSFixer/PhotoshopApps/releases) the APK's on your Android phone and install them. That's it.
 
 ## Changelog:
->Feb. 15th 2025 - Feb. 25th 2025
+### 2025.0 (Feb. 15th 2025 - Feb. 25th 2025)
 - [x] Bypassed the login screen.  
 - [x] Disabled ALL analytic spyware.  
 - [x] Removed network permission.  
@@ -17,7 +17,7 @@
 - [x] Removed all broken buttons.
 
 ## Who are you? 
-Someone who loved using PS Mix & Fix from 2017-2024, and wants to continue using them in 2025 onward.  
+Someone who loved using PS Mix & Fix from 2017-2024, and wants to continue using them in 2025 onward.   
 Like many others, I used to edit photos on PS Mix & Fix until they were intentionally destroyed by Adobe.
 
 ## What motivated you?
@@ -27,8 +27,8 @@ Like many others, I used to edit photos on PS Mix & Fix until they were intentio
 
 ## How can I trust you?
 I understand your concern, but I promise you: these apps are *even safer* than the stock versions.  
-I disabled ALL analytic spyware code that tracked your actions when using these apps.  
-Furthermore, I even disabled network permissions for both apps so they can't communicate to **ANY** servers.
+I disabled all analytic code that tracked your actions when using these apps.  
+Furthermore, I even disabled network permissions for both apps so they can't communicate to any servers.
 
 ## Known Bugs:
 * (Mix & Fix) Renaming a project crashes the app.  
@@ -45,10 +45,13 @@ Furthermore, I even disabled network permissions for both apps so they can't com
 * <ins>February 15th 2025:</ins> I reverse engineered PS Mix & Fix to restore access to both apps.
 * <ins>February 24th 2025:</ins> I created this repo, and worked on PS Mix 2025 for a week. Fixed crashes in both apps.
   
-# Donate (this was a lot of work):
+# Donate:
+This is a lot of work.  
+Thank you for anything given. ❤  
+
 **BTC: bc1q9mztthrewp5rkqn0c6wkjmcusxak5g60cujfws**  
 ![btc QR Code](https://github.com/user-attachments/assets/ca4ac4cc-6d2d-4798-9746-2c05793bcb6a)  
-Thank you ❤
+
 
 ## I'll leave you with this:
 > "Sometimes, things that go horrendously wrong can end up being tremendously better." - PS Fixer, February 24th 2025.
