@@ -17,6 +17,8 @@ This is a lot of work. Thank you! ❤
 **BTC: bc1q9mztthrewp5rkqn0c6wkjmcusxak5g60cujfws**  
 ![btc QR Code](https://github.com/user-attachments/assets/ca4ac4cc-6d2d-4798-9746-2c05793bcb6a) 
 
+https://github.com/user-attachments/assets/424459ac-ae24-4912-b2cc-cabe0412858c
+
 ## Changelog:
 ### 2025.0 (Feb. 15th 2025 - Feb. 25th 2025)
 - [x] Bypassed the login screen.  
