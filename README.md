@@ -57,3 +57,4 @@ Furthermore, I even removed network permissions so the apps can't communicate to
 * <ins>June 4th 2024:</ins> PS Mix & Fix apps were officially "sunsetted." No longer operational. *Intentionally broken.*
 * <ins>February 15th 2025:</ins> I reverse engineered PS Mix & Fix to restore access to both apps.
 * <ins>February 24th 2025:</ins> I created this repo, and worked on PS Mix 2025 for a week. Fixed crashes in both apps.
+* <ins>February 27th 2025:</ins> The first release of PS Mix & Fix 2025!!!
