@@ -9,7 +9,9 @@
 ![PS2025 GH](https://github.com/user-attachments/assets/f5a20562-ca0e-4985-bb89-f4b4835d549d)
 
 # HOW TO INSTALL:  
-[DOWNLOAD](https://github.com/PSFixer/PhotoshopApps/releases) the APK's on your Android phone and install them. That's it.
+1. [DOWNLOAD](https://github.com/PSFixer/PhotoshopApps/releases) the APK's on your Android phone.
+2. Enable "Install unknown apps" if you get a prompt.
+3. Install and enjoy!
 
 # Donate:
 This is a lot of work. Thank you! ❤  
