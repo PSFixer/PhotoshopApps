@@ -1,7 +1,7 @@
 <h1 align="center">Photoshop Mix & Fix 2025</h1>
 
 ## The Adobe Photoshop apps restored! 😏
-* For Android 9+
+* For Android 9+ (No root needed)
 * After 8 months of being unusable. (June 4th 2024 to February 15th 2025)  
 
 > "Sometimes, things that go horrendously wrong can end up being tremendously better." - PS Fixer, February 24th 2025.
