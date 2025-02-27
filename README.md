@@ -22,7 +22,7 @@ This is a lot of work. Thank you! ❤
 - [x] Bypassed the login screen.  
 - [x] Disabled ALL analytic spyware.  
 - [x] Removed network permission.  
-- [x] Fixed several crashes.  
+- [x] Fixed many crashes.  
 - [x] Added dark mode! (Apps follow system theme)
 - [x] Removed all broken buttons.
 
