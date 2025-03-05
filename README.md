@@ -9,7 +9,7 @@
 ![PS2025 GH](https://github.com/user-attachments/assets/f5a20562-ca0e-4985-bb89-f4b4835d549d)
 
 # HOW TO INSTALL:  
-1. [DOWNLOAD](https://github.com/PSFixer/PhotoshopApps/releases) the APK's on your Android phone.
+1. [DOWNLOAD](https://github.com/PSFixer/PhotoshopApps/releases/tag/2025.01) the APK's on your Android phone.
 2. Enable "Install unknown apps" if you get a prompt.
 3. Install and enjoy!
 
@@ -58,3 +58,4 @@ Furthermore, I even removed network permissions so the apps can't communicate to
 * <ins>February 15th 2025:</ins> I reverse engineered PS Mix & Fix to restore access to both apps.
 * <ins>February 24th 2025:</ins> I created this repo, and worked on PS Mix 2025 for a week. Fixed crashes in both apps.
 * <ins>February 27th 2025:</ins> The first release of PS Mix & Fix 2025!!!
+* <ins>March 4th 2025:</ins> Released version 2025.01
